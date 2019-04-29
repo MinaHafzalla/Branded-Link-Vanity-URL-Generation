@@ -35,7 +35,7 @@ $yourls_user_passwords = array(
 ### Server A
 1. [**Download**](https://github.com/MinaHafzalla/Branded-Links-AKA-Vanity-URLs-Auto-Generation/blob/master/function.affyourls.php) :arrow_double_down: our _Smarty_ plugin file.
 2. Open file, find and replace the following variables values accordingly with your details.
-    * `$Username`, `$password`
+    * `$username`, `$password`
     * `$url`
     * `$api_url`
 3. Save file as _`function.affyourls.php`_.
