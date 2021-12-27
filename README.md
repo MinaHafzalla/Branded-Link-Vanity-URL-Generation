@@ -1,5 +1,5 @@
 # Introduction
-This guide explains step by step how to provide your [WHMCS](https://www.whmcs.com/) affiliate users with a shorter version of their referral links. We are going to use a custom _Smarty_ PHP plugin for WHMCS along with [YOURLS](https://yourls.org/) software as our URL shortener, and I'm going to use my website as an example to explain how it works. 
+This guide explains step by step how to provide your [WHMCS](https://www.whmcs.com/members/aff.php?aff=12390) affiliate users with a shorter version of their referral links. We are going to use a custom _Smarty_ PHP plugin for WHMCS along with [YOURLS](https://yourls.org/) software as our URL shortener, and I'm going to use my website as an example to explain how it works. 
 
 In general, WHMCS affiliate referral links look like that: [**_`www.ca.netmoly.com/aff.php?aff=9`_**](https://ca.netmoly.com/aff.php?aff=9).
 
