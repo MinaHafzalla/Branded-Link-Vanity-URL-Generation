@@ -71,4 +71,4 @@ An SSL connection is required between the two servers to encrypt the transmitted
 _**Note:** While this method has been implemented and tested on WHMCS only, it should work on other Smarty-based software if set up correctly._
 
 # Questions
-Have a question? Feel free to contact me at mina@netmoly.com
+Have a question? Feel free to contact me at minahafzalla@gmail.com
