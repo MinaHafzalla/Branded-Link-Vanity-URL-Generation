@@ -17,7 +17,7 @@ The plugin defines a new _Smarty_ function and sets a custom variable in order t
 # Requirements
 1. Your branded domain name (Server B).
 2. [YOURLS](https://github.com/YOURLS/YOURLS/releases) URL Shortener Installed (Server B).
-3. [_Smarty_ Plugin](https://github.com/MinaHafzalla/White-label-Affiliate-Links-Generation-for-WHMCS/blob/master/function.affyourls.php) (Server A).
+3. [_Smarty_ Plugin](https://github.com/MinaHafzalla/White-labeled-Affiliate-Links-Generation-for-WHMCS/blob/master/function.affyourls.php) (Server A).
 4. [ionCube](https://www.ioncube.com/loaders.php) loader (Both Servers).
 5. [ionCube](https://www.ioncube.com/) account.
 
